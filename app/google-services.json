@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "460402620595",
+    "firebase_url": "https://x5-weather.firebaseio.com",
+    "project_id": "x5-weather",
+    "storage_bucket": "x5-weather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460402620595:android:eafafd330b85061756d8c6",
+        "android_client_info": {
+          "package_name": "com.usetech.weatherInfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460402620595-a48qbfvp3f9gn2mfce2h5aigshaalcgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8WXetWEnCZrjW2BYZT_5ELCh1EwjqJSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460402620595-a48qbfvp3f9gn2mfce2h5aigshaalcgo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460402620595-blj7gnsrgeg959r4doobjp7p8bn5d47q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.usetech.x5weather"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

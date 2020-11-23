@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tvTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="16dp"
+        android:gravity="center"
+        android:textColor="@color/colorWhite"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:textSize="17sp"
+        tools:text="Now"
+        android:layout_alignParentStart="true"
+        />
+
+    <ImageView
+        android:id="@+id/ivState"
+        android:layout_alignParentEnd="true"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginEnd="75dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:foregroundGravity="center"
+        tools:src="@drawable/ic_few_clouds" />
+
+    <TextView
+        android:id="@+id/tvTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:gravity="center"
+        android:layout_alignParentEnd="true"
+        android:textColor="@color/colorWhite"
+        android:textSize="17sp"
+        tools:text="+25*"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="16dp" />
+
+
+</RelativeLayout>

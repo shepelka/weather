@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">WeatherInfo</string>
+
+    <!--Common message-->
+    <string name="common_cancel">Отмена</string>
+    <string name="common_ok">OK</string>
+    <string name="common_loading_content">Загрузка&#8230;</string>
+    <string name="common_error">Ошибка</string>
+    <string name="common_error_internet_connection">Отсутствует соединение с интернетом</string>
+    <string name="common_error_server_connection">Отсутствует соединение с сервером</string>
+    <string name="common_undefined_error">Неизвестная ошибка</string>
+    <string name="common_submit">Подтвердить</string>
+    <string name="common_not_set">Не установлено</string>
+    <string name="common_edit">Изменить</string>
+    <string name="common_location">Местоположение</string>
+    <string name="common_delete">Удалить</string>
+    <string name="common_skip">Пропустить</string>
+    <string name="common_save">Сохранить</string>
+    <string name="common_update">Обновить</string>
+    <string name="common_next">Далее</string>
+    <string name="common_turn_on">Включить</string>
+    <string name="common_warning">Внимание</string>
+    <string name="common_yes">Да</string>
+    <string name="common_no">Нет</string>
+    <string name="common_close_app">Закрыть приложение?</string>
+    <string name="common_more_info">Подробнее</string>
+    <string name="common_back">Назад</string>
+    <string name="common_choose">Выбрать</string>
+    <string name="common_exit">Выход</string>
+    <string name="common_activate">Активировать</string>
+    <string name="common_error_load_data">Не удалось загрузить данные</string>
+    <string name="common_two_strings_format" translatable="false">%1$s %2$s</string>
+    <string name="common_two_strings_format_with_deliver" translatable="false">%1$s, %2$s</string>
+
+    <!--    weather state-->
+    <string name="clear_sky">Ясно</string>
+    <string name="few_clouds">Переменная облачность</string>
+    <string name="scattered_clouds">Облачно</string>
+    <string name="broken_clouds">Пасмурно</string>
+    <string name="shower_rain">Дождь</string>
+    <string name="rain">Небольшой дождь</string>
+    <string name="thunderstorm">Гроза</string>
+    <string name="snow">Снег</string>
+    <string name="mist">Туман</string>
+
+    <string name="string_wind_format">%1$s %2$d м/c</string>
+    <string name="string_today_date">Сегодня, %1$s</string>
+    <string name="string_temp_format_plus">+%1$d°</string>
+    <string name="string_temp_format_minus">%1$d°</string>
+    <string name="string_pressure_format">%1$d мм</string>
+    <string name="string_humidity_format">%1$d%%</string>
+
+    <string name="hourly_now">Сейчас</string>
+
+    <string name="title_city_list">Города</string>
+    <string name="dtn_add">+</string>
+
+    <string name="bnt_delete">Удалить</string>
+
+    <string name="search_hint">Поиск&#8230;</string>
+    <string name="content_description_clear_search">Очистить поиск</string>
+    <string name="content_search_not_found">Ничего не найдено</string>
+    <string name="content_search_not_add">Не удалось добавить город</string>
+    <string name="content_error_not_get_data">Не удалось обновить данные</string>
+
+
+</resources>
